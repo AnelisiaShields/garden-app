@@ -1,0 +1,3 @@
+Improve garden_advice.js to expose an API and handle missing prompt().
+
+This issue covers making the JS file modular and updating index.html if needed.
